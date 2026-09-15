@@ -1,0 +1,77 @@
+{
+  "packaged_on": "2026-09-15",
+  "release_scope": "method_components",
+  "files": [
+    {
+      "source": "robust_ecoc/context_views.py",
+      "destination": "cois/context_views.py",
+      "source_sha256": "259e4550cd75201cff96e6b3962876ea40e14268f13f4048614e657531335a72",
+      "release_sha256": "259e4550cd75201cff96e6b3962876ea40e14268f13f4048614e657531335a72",
+      "algorithm_ast_identical": true
+    },
+    {
+      "source": "robust_ecoc/codebook.py",
+      "destination": "cois/codebook.py",
+      "source_sha256": "9d46194a99e22fa21af5331e9f3bb3c983c3b370f377fd958d416822b0ee65c4",
+      "release_sha256": "b71d5b0be4f52c70b24bac6c9e11f8c71a2a2c8d86ea60ae08d3bd14be9429bd",
+      "algorithm_ast_identical": true
+    },
+    {
+      "source": "robust_ecoc/losses/ecoc.py",
+      "destination": "cois/losses/ecoc.py",
+      "source_sha256": "a0393c7dc065915f05eeb45a36fd53cd28b64b07e983d889f4ee7468dedd0a56",
+      "release_sha256": "a0393c7dc065915f05eeb45a36fd53cd28b64b07e983d889f4ee7468dedd0a56",
+      "algorithm_ast_identical": true
+    },
+    {
+      "source": "robust_ecoc/losses/context_interval.py",
+      "destination": "cois/losses/context_interval.py",
+      "source_sha256": "7958eea2acc609f90f552d4715ba0b123c8e6afdcad07930a65ad6589d981a4c",
+      "release_sha256": "7958eea2acc609f90f552d4715ba0b123c8e6afdcad07930a65ad6589d981a4c",
+      "algorithm_ast_identical": true
+    },
+    {
+      "source": "robust_ecoc/losses/context_additive.py",
+      "destination": "cois/losses/context_additive.py",
+      "source_sha256": "77419337e0272cfd950e8cd6357c8e4e80f902e66699641de7d63572f5722bcf",
+      "release_sha256": "77419337e0272cfd950e8cd6357c8e4e80f902e66699641de7d63572f5722bcf",
+      "algorithm_ast_identical": true
+    },
+    {
+      "source": "robust_ecoc/losses/interval_code_set.py",
+      "destination": "cois/losses/interval_code_set.py",
+      "source_sha256": "ef21cfe75dbd0b7fa8058ab5ab95d4e987f5ab89f44db1746b71f3c4c7bd1906",
+      "release_sha256": "43fa69990482d4017e0a5b2efc720d7727b1095c4835ce8fffd471fbd852d456",
+      "algorithm_ast_identical": true
+    },
+    {
+      "source": "robust_ecoc/configs/t1_interval_code_set.json",
+      "source_sha256": "f62620b3207c65c33f65fd24f8095cfa9d99810fb0073eef44196f89ca746751",
+      "destination": "configs/t1.json",
+      "changes": "Selected public hyperparameters; removed local paths and historical-run dependencies; final method mode topk_set."
+    },
+    {
+      "source": "robust_ecoc/configs/t2_topk_set.json",
+      "source_sha256": "fa6a27eb7a036faaff0cbd3d0786e3eea375497e847baac11c0996c24a844592",
+      "destination": "configs/t2.json",
+      "changes": "Selected public hyperparameters; removed local paths and historical-run dependencies; final method mode topk_set."
+    },
+    {
+      "source": "robust_ecoc/configs/t3_cityosm.json",
+      "source_sha256": "4cf773fa2266e4f6ff559e8bddcc4bad123621a5735baff03e5fa5d1e4dc790c",
+      "destination": "configs/t3.json",
+      "changes": "Selected public hyperparameters; removed local paths and historical-run dependencies; final method mode topk_set."
+    },
+    {
+      "source": "robust_ecoc/configs/t4_cityosm.json",
+      "source_sha256": "d4b7655bd0e2210703c53c0163cd05e3cd5c569ae4182ebf5147c82b86e4d108",
+      "destination": "configs/t4.json",
+      "changes": "Selected public hyperparameters; removed local paths and historical-run dependencies; final method mode topk_set."
+    },
+    {
+      "source": "manuscript/tables/joint_ablation.tex",
+      "source_sha256": "29c8862317d6ffd11f4e01f7789967fdfb5aa705371d9e4e3af999394b5bcf5c",
+      "usage": "README rounded selected-validation results"
+    }
+  ]
+}
