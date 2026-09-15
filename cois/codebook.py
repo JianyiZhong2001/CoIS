@@ -1,4 +1,4 @@
-"""Inherited fixed codewords and source-confusion assignment; see docs/attribution.md."""
+"""Inherited fixed codewords and source-confusion assignment; see README.md."""
 import itertools
 import numpy as np
 
