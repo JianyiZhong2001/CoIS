@@ -13,7 +13,7 @@
       "source": "robust_ecoc/codebook.py",
       "destination": "cois/codebook.py",
       "source_sha256": "9d46194a99e22fa21af5331e9f3bb3c983c3b370f377fd958d416822b0ee65c4",
-      "release_sha256": "b71d5b0be4f52c70b24bac6c9e11f8c71a2a2c8d86ea60ae08d3bd14be9429bd",
+      "release_sha256": "535bc220c6178d444e4069b518c6150fea64c05db23e3306af33f2dc9b7f58a6",
       "algorithm_ast_identical": true
     },
     {
