@@ -1,4 +1,4 @@
-# CoIS: Context-Guided Interval and Set Supervision for Multi-Source Remote Sensing Segmentation
+# CoIS: Context-Guided Interval and Set Supervision for Multi-Source Domain Adaptation in Remote Sensing Semantic Segmentation
 
 PyTorch implementation of the CoIS method components. The full benchmark training pipeline and pretrained models are not included in this release.
 
