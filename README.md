@@ -58,8 +58,9 @@ Selected-validation mIoU (%) from the manuscript's component comparison:
 
 | Method | T1 | T2 | T3 | T4 |
 | --- | ---: | ---: | ---: | ---: |
-| Enhanced encoding base | 59.34 | 71.49 | 55.49 | 57.10 |
-| Base + CIS | 59.99 | 71.39 | 55.42 | 57.23 |
+| Enhanced encoding base | 55.22 |     58.19 | 50.15 | 54.42 |
+| Base + CIS | 58.77 |     67.42 | 52.56 | 55.52 |
+| Base + IGSS | 59.28 | 65.36 | 54.20 | 56.61 |
 | **CoIS** | **60.37** | **71.41** | **55.55** | **57.42** |
 
 T1: Potsdam RGB + Potsdam IRRG → Vaihingen IRRG. T2: Potsdam RGB + Vaihingen IRRG → Potsdam IRRG. T3/T4: Zurich + Chicago → Paris/Berlin (CITY-OSM).
